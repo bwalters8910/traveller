@@ -1,0 +1,26 @@
+{
+  "name": "traveller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwalters8910/traveller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwalters8910/traveller/issues"
+  },
+  "homepage": "https://github.com/bwalters8910/traveller#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.2.1",
+    "sequelize": "^6.3.5"
+  }
+}
